@@ -20,6 +20,7 @@ module.exports = {
         sm: '645px',
       },
       backgroundImage: {
+        // "hero-pattern": "url('/src/assets/herobg.png')",
         "hero-pattern": "url('/src/assets/herobg.png')",
       },
     },
